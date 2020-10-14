@@ -1,6 +1,6 @@
  
 import unittest
-from sub import sub
+from sub import subs
 # import sub
 
 class MyTest(unittest.TestCase):
