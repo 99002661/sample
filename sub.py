@@ -1,2 +1,2 @@
-def sub(x,y):
+def subs(x,y):
     return x-y
